@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:55:58.808372
+#+TITLE: 諸家神品丹法
+#+PROPERTY: DZID  DZ0918
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—214 六卷 洞神部眾術類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
